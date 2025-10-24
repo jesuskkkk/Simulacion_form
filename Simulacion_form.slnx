@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Class_simulacion_interfaz/Class_simulacion_interfaz.csproj" />
+  <Project Path="Simulacion_form/Simulacion_form.csproj" />
+</Solution>
